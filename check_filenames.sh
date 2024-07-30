@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define regex patterns
+# Define regex patternss
 FILENAME_PATTERN="^[a-z0-9\-]+\.pbix$"
 FOLDERNAME_PATTERN="^[a-z]+([A-Z][a-z]+)*$"
 
